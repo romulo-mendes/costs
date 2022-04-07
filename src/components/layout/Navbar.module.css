@@ -1,0 +1,27 @@
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  background-color: #2e282a;
+  /*background-image: linear-gradient(to right,#fff, rgba(27, 26, 26, 0.753) , #222); */
+  padding: 1em;
+  font-weight: bold;
+}
+
+.list{
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+
+.item{
+  margin-right: 1em;
+}
+
+.item a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.item a:hover{
+  color: #ffc914;
+}
