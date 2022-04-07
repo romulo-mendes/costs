@@ -1,6 +1,6 @@
 .footer{
-  background-color: #222;
-  color: #ffbb33;
+  background-color: #2e282a;
+  color: #fff;
   padding: 1em;
   text-align: center;
 }
@@ -16,7 +16,7 @@
 }
 
 .social_list li:hover{
-  color: #8A2BE2;
+  color: #ffc914;
 }
 
 .social_list svg{
@@ -31,5 +31,5 @@
 
 .copy_right span{
   font-weight: bold;
-  color: #8A2BE2;
+  color: #ffc914;
 }

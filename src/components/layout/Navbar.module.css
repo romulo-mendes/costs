@@ -1,8 +1,8 @@
 .navbar{
   display: flex;
   justify-content: space-between;
-  /*background-color: #222;*/
-  background-image: linear-gradient(to right,#fff, rgba(27, 26, 26, 0.753) , #222);
+  background-color: #2e282a;
+  /*background-image: linear-gradient(to right,#fff, rgba(27, 26, 26, 0.753) , #222); */
   padding: 1em;
   font-weight: bold;
 }
@@ -18,10 +18,10 @@
 }
 
 .item a{
-  color: #ffbb33;
+  color: #fff;
   text-decoration: none;
 }
 
 .item a:hover{
-  color: #8A2BE2;
+  color: #ffc914;
 }
