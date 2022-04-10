@@ -2,6 +2,7 @@
   width: 450px;
   margin: 0 auto;
   padding: 3em;
+  background-image: linear-gradient(to bottom, #7b7b7b, #fff) ;
 }
 
 .newproject_container h1{
@@ -9,5 +10,5 @@
 }
 
 .newproject_container p{
-  color: #7b7b7b;
+  color: #000000;
 }
